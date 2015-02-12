@@ -5,6 +5,7 @@
  */
 
 package practica1_200920117;
+import GUI.Pantalla;
 
 /**
  *
@@ -18,6 +19,8 @@ public class Practica1_200920117 {
     public static void main(String[] args) {
         // TODO code application logic here
         //todo comentado para no perderme
+        Pantalla nueva= new Pantalla();
+        nueva.show();
         System.out.println("holaaaa ya subi esta cosa que genial");
     }
     
